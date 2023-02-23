@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/V2QHtDY/Data-Collection.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection/blob/main/Data-Collection.png" width="200"></a>
 <h1 align="center"><b>How to disable Firefox Telemetry and Data Collection</b></h1>
 <br />
 
