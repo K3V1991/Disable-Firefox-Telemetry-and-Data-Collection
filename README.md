@@ -30,6 +30,7 @@ Preference | Value to change |
 | --- | --- |
 | browser.newtabpage.activity-stream.feeds.telemetry | false |
 | browser.newtabpage.activity-stream.telemetry | false |
+| browser.newtabpage.activity-stream.telemetry.structuredIngestion.endpoint | Delete URL |
 | browser.ping-centre.telemetry | false |
 | datareporting.healthreport.service.enabled | false |
 | datareporting.healthreport.uploadEnabled | false |
